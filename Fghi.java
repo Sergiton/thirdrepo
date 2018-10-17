@@ -4,3 +4,4 @@ public void display ()
 {
 System.out.println("New Method");
 }
+}
